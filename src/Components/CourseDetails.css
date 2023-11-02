@@ -1,0 +1,46 @@
+
+.course-details-container {
+  background-color: #f9f9f9;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.course-details-heading {
+  font-size: 24px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.course-name {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.course-info {
+  margin-bottom: 10px;
+}
+
+.syllabus-container {
+  margin-top: 20px;
+}
+
+.syllabus-heading {
+  font-size: 18px;
+}
+
+.syllabus-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.syllabus-item {
+  margin-top: 10px;
+}
+
+.syllabus-item strong {
+  font-weight: bold;
+}
+

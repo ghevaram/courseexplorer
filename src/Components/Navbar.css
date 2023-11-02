@@ -1,0 +1,18 @@
+.navbar-brand{
+    color: red !important;
+    font-weight: bold;
+}
+
+
+.navbar-brand span{
+    color: black;
+}
+
+a{
+    cursor: pointer !important;
+    font-weight: bold;
+}
+
+.navbar{
+    padding: 10px;
+}
